@@ -1,10 +1,9 @@
 # 🎬 CocCocApp
 
-A modern Android application built to demonstrate **Clean Architecture**, **Jetpack Compose**, and **Offline-First** principles. The app allows users to discover trending movies, search for titles, view detailed information, and save their favorites for offline viewing.
-
+A modern Android application built to demonstrate **Clean Architecture**, **Jetpack Compose**, and **Offline-First** principles. 
 ## 📱 Features
 
-* **Article listc:** 
+* **Article list:** 
 * **Reading article** 
 * **Image downloading** 
 * **Content summarization**
