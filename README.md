@@ -1,15 +1,13 @@
-# 🎬 MoviesApp
+# 🎬 CocCocApp
 
 A modern Android application built to demonstrate **Clean Architecture**, **Jetpack Compose**, and **Offline-First** principles. The app allows users to discover trending movies, search for titles, view detailed information, and save their favorites for offline viewing.
 
 ## 📱 Features
 
-* **Discover:** Browse "Trending" and "Now Playing" movies with infinite scrolling.
-* **Search:** Real-time search with debounce and **Offline Fallback** (searches local DB if network fails).
-* **Offline First:** All browsed and searched data is cached locally using Room.
-* **Bookmarks:** Save movies to your "Watchlist" (works completely offline).
-* **Deep Linking:** Share movies via URL (`https://www.moviedbapp.com/movie/{id}`) that opens directly in the app.
-* **Modern UI:** Built entirely with Jetpack Compose and Material3.
+* **Article listc:** 
+* **Reading article** 
+* **Image downloading** 
+* **Content summarization**
 
 ## 🛠 Tech Stack
 
@@ -36,8 +34,7 @@ The project follows the principles of **Clean Architecture** to ensure separatio
 To run this project, you will need to configure the TMDB API key.
 
 ### 1. Get an API Key
-1.  Sign up for an account at [The Movie Database (TMDB)](https://www.themoviedb.org/).
-2.  Navigate to **Settings** -> **API** to generate your unique API Key.
+1.  (https://api.spaceflightnewsapi.net/v4/articles/)
 
 ### 2. Configure the Project
 1.  Clone this repository.
